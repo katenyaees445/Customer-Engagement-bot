@@ -1,0 +1,49 @@
+{
+  "conversations": {
+    "139161537405148@lid": [
+      {
+        "role": "user",
+        "text": "T",
+        "ts": 1763717221082
+      },
+      {
+        "role": "assistant",
+        "text": "Sorry bro 😅, I got stuck. Can you try again?",
+        "ts": 1763717223875
+      },
+      {
+        "role": "user",
+        "text": "Good morning",
+        "ts": 1763717233515
+      },
+      {
+        "role": "assistant",
+        "text": "Sorry bro 😅, I got stuck. Can you try again?",
+        "ts": 1763717234028
+      },
+      {
+        "role": "user",
+        "text": "Menu",
+        "ts": 1763718643505
+      },
+      {
+        "role": "assistant",
+        "text": "Saved reservation: Menu",
+        "ts": 1763718643915
+      }
+    ]
+  },
+  "reservations": {
+    "139161537405148@lid": [
+      {
+        "details": "Menu",
+        "ts": 1763717166443
+      },
+      {
+        "details": "Menu",
+        "ts": 1763718643506
+      }
+    ]
+  },
+  "pendingReservation": {}
+}

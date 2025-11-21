@@ -1,24 +1,33 @@
-2025/11/21-12:45:56.918 4a3c Reusing MANIFEST C:\Users\Katenya the Great\whatsapp-bot1\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/11/21-12:45:56.919 4a3c Recovering log #310
-2025/11/21-12:45:57.012 4a3c Reusing old log C:\Users\Katenya the Great\whatsapp-bot1\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000310.log 
-2025/11/21-12:46:03.111 4b5c Level-0 table #321: started
-2025/11/21-12:46:03.260 4b5c Level-0 table #321: 265051 bytes OK
-2025/11/21-12:46:03.295 4b5c Delete type=0 #310
-2025/11/21-12:46:03.296 1ef4 Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1e\x00\x00\x05' @ 1008801 : 1
-2025/11/21-12:46:03.296 1ef4 Compacting 1@0 + 2@1 files
-2025/11/21-12:46:04.220 1ef4 Generated table #322@0: 70571 keys, 2215019 bytes
-2025/11/21-12:46:04.832 1ef4 Generated table #323@0: 69147 keys, 1492743 bytes
-2025/11/21-12:46:04.832 1ef4 Compacted 1@0 + 2@1 files => 3707762 bytes
-2025/11/21-12:46:04.978 1ef4 compacted to: files[ 0 2 4 0 0 0 0 ]
-2025/11/21-12:46:04.979 1ef4 Delete type=2 #321
-2025/11/21-12:46:04.980 4b5c Manual compaction at level-0 from '\x00\x1e\x00\x00\x05' @ 1008801 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/11/21-12:46:09.127 4b5c Compacting 1@1 + 4@2 files
-2025/11/21-12:46:10.092 4b5c Generated table #324@1: 36986 keys, 2198936 bytes
-2025/11/21-12:46:10.482 4b5c Generated table #325@1: 1855 keys, 2152662 bytes
-2025/11/21-12:46:10.881 4b5c Generated table #326@1: 9934 keys, 2181201 bytes
-2025/11/21-12:46:11.299 4b5c Generated table #327@1: 20284 keys, 2196106 bytes
-2025/11/21-12:46:11.676 4b5c Generated table #328@1: 65475 keys, 1565390 bytes
-2025/11/21-12:46:11.676 4b5c Compacted 1@1 + 4@2 files => 10294295 bytes
-2025/11/21-12:46:11.747 4b5c compacted to: files[ 0 1 5 0 0 0 0 ]
-2025/11/21-12:46:11.748 4b5c Delete type=2 #313
-2025/11/21-12:46:11.748 4b5c Delete type=2 #314
+2025/11/21-21:37:09.652 3904 Reusing MANIFEST C:\Users\Katenya the Great\whatsapp-bot1\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/21-21:37:10.486 3904 Recovering log #320
+2025/11/21-21:37:11.439 3904 Reusing old log C:\Users\Katenya the Great\whatsapp-bot1\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000320.log 
+2025/11/21-21:37:11.440 3904 Delete type=2 #315
+2025/11/21-21:37:11.440 3904 Delete type=2 #316
+2025/11/21-21:37:11.440 3904 Delete type=2 #317
+2025/11/21-21:37:11.440 3904 Delete type=2 #318
+2025/11/21-21:37:11.440 3904 Delete type=2 #322
+2025/11/21-21:37:19.870 48e4 Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/21-21:38:14.021 3c0c Level-0 table #331: started
+2025/11/21-21:38:14.515 3c0c Level-0 table #331: 1365280 bytes OK
+2025/11/21-21:38:14.679 3c0c Delete type=0 #320
+2025/11/21-21:38:19.336 3c0c Compacting 1@0 + 1@1 files
+2025/11/21-21:38:20.361 3c0c Generated table #332@0: 86684 keys, 2183732 bytes
+2025/11/21-21:38:20.361 3c0c Compacted 1@0 + 1@1 files => 2183732 bytes
+2025/11/21-21:38:20.466 3c0c compacted to: files[ 0 1 5 0 0 0 0 ]
+2025/11/21-21:38:22.167 3e20 Compacting 1@1 + 5@2 files
+2025/11/21-21:38:22.899 3e20 Generated table #333@1: 39872 keys, 2206826 bytes
+2025/11/21-21:38:23.470 3e20 Generated table #334@1: 1823 keys, 2151129 bytes
+2025/11/21-21:38:23.859 3e20 Generated table #335@1: 6860 keys, 2163587 bytes
+2025/11/21-21:38:24.751 3e20 Generated table #336@1: 24736 keys, 2223519 bytes
+2025/11/21-21:38:25.464 3e20 Generated table #337@1: 72885 keys, 2213902 bytes
+2025/11/21-21:38:25.875 3e20 Generated table #338@1: 63157 keys, 1363950 bytes
+2025/11/21-21:38:25.875 3e20 Compacted 1@1 + 5@2 files => 12322913 bytes
+2025/11/21-21:38:25.954 3e20 compacted to: files[ 0 0 6 0 0 0 0 ]
+2025/11/21-21:38:25.955 3e20 Delete type=2 #323
+2025/11/21-21:38:25.956 3e20 Delete type=2 #324
+2025/11/21-21:38:25.956 3e20 Delete type=2 #325
+2025/11/21-21:38:25.956 3e20 Delete type=2 #326
+2025/11/21-21:38:25.956 3e20 Delete type=2 #327
+2025/11/21-21:38:25.956 3e20 Delete type=2 #328
+2025/11/21-21:38:25.956 3e20 Delete type=2 #331
+2025/11/21-21:38:25.956 3e20 Delete type=2 #332
