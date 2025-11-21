@@ -1,0 +1,4 @@
+2025/11/21-11:52:25.320 4a84 Creating DB C:\Users\Katenya the Great\whatsapp-bot1\.wwebjs_auth\session\Default\Sync Data\LevelDB since it was missing.
+2025/11/21-11:52:26.845 4a84 Reusing MANIFEST C:\Users\Katenya the Great\whatsapp-bot1\.wwebjs_auth\session\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/11/21-11:52:26.846 4a84 Recovering log #3
+2025/11/21-11:52:26.846 4a84 Reusing old log C:\Users\Katenya the Great\whatsapp-bot1\.wwebjs_auth\session\Default\Sync Data\LevelDB/000003.log 
